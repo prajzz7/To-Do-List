@@ -1,0 +1,54 @@
+.list-area{
+
+}
+.list-item{
+    margin-top: 30px;
+    
+}
+ul{
+    display: flex;
+    align-items: center;
+    height: fit-content;
+    border: 2px solid rgb(207, 185, 205);
+    border-radius: 10px;
+    display: flex;
+    margin: 20px 30px;
+    padding: 15px;
+    overflow-wrap: anywhere;
+    
+    
+}
+
+button{
+    right: 0;
+}
+
+.checked{
+    text-decoration: line-through;
+    flex: 1;
+    color: #dcdcdc;
+    font-weight: 400;
+    
+}
+.notChecked{
+    flex: 1;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: 'Kanit', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+.listBtns{
+    
+}
+.icons{
+    color: #faded0;
+    font-size: 17px;
+    padding: 4px;
+    cursor: pointer;
+}
+.icons:hover{
+    color: rgb(99, 55, 95);
+    font-size: 20px;
+    transition: 0.2s ease-in-out;
+    
+}

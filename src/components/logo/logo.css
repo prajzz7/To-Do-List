@@ -1,0 +1,12 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+    height: 40px;
+    font-size: 25px;
+}
+
+.myLogo{
+    color: aliceblue;
+}
